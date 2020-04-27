@@ -1,0 +1,1 @@
+https://vertex-academy.com/tutorials/ru/java-8-default-i-static-metody/
