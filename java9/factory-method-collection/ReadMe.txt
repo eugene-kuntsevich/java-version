@@ -1,0 +1,1 @@
+https://vertex-academy.com/tutorials/ru/java-9-factory-metodi-v-kollekciah/
