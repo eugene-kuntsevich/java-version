@@ -1,0 +1,1 @@
+https://javarush.ru/groups/posts/542-novaja-java-opjatjh-vstrechaem-java-10
