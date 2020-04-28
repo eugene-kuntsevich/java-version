@@ -8,7 +8,7 @@ import java.util.Set;
  * Метод of() не создает привычные ArrayList, HashSet или HashMap. В Java 9 были созданы специальные ImmutableCollections которые и возвращаются;
  * ImmutableCollections являются сериализуемыми, если содержимое тоже является сериализуемым;
  */
-public class Main
+public class MainFactoryMethodCollection
 {
 	public static void main(String[] args)
 	{

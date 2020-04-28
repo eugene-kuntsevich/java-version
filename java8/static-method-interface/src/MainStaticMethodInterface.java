@@ -1,5 +1,5 @@
 
-public class Main2
+public class MainStaticMethodInterface
 {
 	public static void main(String[] args)
 	{
