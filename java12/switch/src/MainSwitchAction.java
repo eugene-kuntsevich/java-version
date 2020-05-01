@@ -6,7 +6,8 @@ import static java.util.Calendar.THURSDAY;
 import static java.util.Calendar.TUESDAY;
 import static java.util.Calendar.WEDNESDAY;
 
-public class MainSwitch
+//switch может использовать несколько переменных (напрмиер, MONDAY, FRIDAY, SUNDAY) и выполнять действие справа от '->'
+public class MainSwitchAction
 {
 	public static void main(String[] args)
 	{
